@@ -1,7 +1,7 @@
 # [SQL](https://www.tutorialspoint.com/sql/sql-overview.htm)
 - Structured Query Language
 - Used to store, manupulate, retrieve/fetch data from RBDMS
-- Sql is a standard query language dfor RDBMS. Eg of RBDMS - mySql, PostGres, Excel, MS Access (JET Sql), Oracle (PL/Sql), Sybase, **Sql Server** (tSql)
+- Sql is a standard query language for RDBMS. Eg of RBDMS - mySql, PostGres, Excel, MS Access (JET Sql), Oracle (PL/Sql), Sybase, **Sql Server** (tSql)
 * Just a language made to be really good at storing and querying (grabbing data) information from a database
 * Now it isn't really a programming langauge (I know confusing) since it lacks basic tools that a normal programming language has
     * Control flow statements? HA non-existent
